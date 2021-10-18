@@ -1,4 +1,4 @@
-# Lenovo-TianQi-M420-i3-8100-UHD630-OpenCore-EFI
+# Lenovo-QiTian-M420-i3-8100-UHD630-OpenCore-EFI
 完美适配macOS Big Sur 11.01
 
 ## 电脑配置
